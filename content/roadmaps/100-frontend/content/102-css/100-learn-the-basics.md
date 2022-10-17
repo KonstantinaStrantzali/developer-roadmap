@@ -9,3 +9,5 @@ CSS or Cascading Style Sheets is the language used to style the frontend of any 
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=yfoY53QXEnI'>CSS Crash Course For Absolute Beginners</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=D-h8L5hgW-w'>HTML and CSS Tutorial</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=FqmB-Zj2-PA'>CSS Masterclass - Tutorial & Course for Beginners</BadgeLink>
+<BadgeLink badgeText='yellow' href='https://learn.shayhowe.com/html-css/'>Learn to Code HTML & CSS</BadgeLink>
+
